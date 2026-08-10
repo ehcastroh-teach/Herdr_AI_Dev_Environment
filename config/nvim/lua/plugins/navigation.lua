@@ -1,0 +1,24 @@
+return {
+  {
+    "folke/snacks.nvim",
+    priority = 2000,
+    lazy = false,
+    opts = { 
+        picker = { enabled = true }, 
+        notifier = { enabled = true }, 
+        input = { enabled = true } 
+    },
+    keys = {
+      { "<leader>f", function() Snacks.picker.files() end,   desc = "Files" },
+      { "<leader>s", function() Snacks.picker.grep() end,    desc = "Grep" },
+      { "<leader>b", function() Snacks.picker.buffers() end, desc = "Buffers" },
+      { "gd", function() Snacks.picker.lsp_definitions() end, desc = "Definition" },
+    },
+  },
+  {
+    "stevearc/oil.nvim",
+    opts = { view_options = { show_hidden = true } },
+    keys = { { "<leader>e", "<cmd>Oil<cr>", desc = "Explorer" } },
+  },
+}
+

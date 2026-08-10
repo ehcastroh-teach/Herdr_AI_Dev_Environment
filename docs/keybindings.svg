@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1400" viewBox="0 0 1100 1400">
+<rect width="1100" height="1400" fill="#232136"/>
+<text x="550" y="66" text-anchor="middle" font-family="monospace" font-size="22" fill="#e0def4" font-weight="bold">Keybindings Reference</text>
+<text x="550" y="86" text-anchor="middle" font-family="monospace" font-size="11" fill="#6e6a86">dotfiles - Rose Pine Moon</text>
+<rect x="24" y="102" width="1052" height="36" rx="6" ry="6" fill="#393552"/>
+<rect x="24" y="102" width="5" height="36" rx="3" ry="3" fill="#eb6f92"/>
+<text x="40" y="125" font-family="monospace" font-size="13" fill="#eb6f92" font-weight="bold">GNOME</text>
+<text x="32" y="126" font-family="monospace" font-size="10" fill="#6e6a86" text-anchor="start" dx="198" text-decoration="none">SHORTCUT</text>
+<rect x="24" y="138" width="1052" height="28" fill="#2a273f"/>
+<rect x="32" y="142" width="84" height="20" rx="10" ry="10" fill="#393552"/><text x="74" y="156" text-anchor="middle" font-family="monospace" font-size="11" fill="#eb6f92" font-weight="bold">Ctrl+Alt+T</text>
+<text x="242" y="156" font-family="monospace" font-size="12" fill="#e0def4">Open WezTerm terminal</text>
+<text x="512" y="156" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">Launch terminal from any context</text>
+<rect x="24" y="184" width="1052" height="36" rx="6" ry="6" fill="#393552"/>
+<rect x="24" y="184" width="5" height="36" rx="3" ry="3" fill="#f6c177"/>
+<text x="40" y="207" font-family="monospace" font-size="13" fill="#f6c177" font-weight="bold">ZSH - Autosuggestions</text>
+<text x="32" y="208" font-family="monospace" font-size="10" fill="#6e6a86" text-anchor="start" dx="198" text-decoration="none">SHORTCUT</text>
+<rect x="24" y="220" width="1052" height="28" fill="#2a273f"/>
+<rect x="32" y="224" width="56" height="20" rx="10" ry="10" fill="#393552"/><text x="60" y="238" text-anchor="middle" font-family="monospace" font-size="11" fill="#f6c177" font-weight="bold">Ctrl+F</text>
+<text x="242" y="238" font-family="monospace" font-size="12" fill="#e0def4">Accept autosuggestion</text>
+<text x="512" y="238" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">Type 'git status', see hint, Ctrl+F to accept</text>
+<rect x="24" y="266" width="1052" height="36" rx="6" ry="6" fill="#393552"/>
+<rect x="24" y="266" width="5" height="36" rx="3" ry="3" fill="#f6c177"/>
+<text x="40" y="289" font-family="monospace" font-size="13" fill="#f6c177" font-weight="bold">ZSH - Aliases</text>
+<text x="32" y="290" font-family="monospace" font-size="10" fill="#6e6a86" text-anchor="start" dx="198" text-decoration="none">SHORTCUT</text>
+<rect x="24" y="302" width="1052" height="28" fill="#2a273f"/>
+<rect x="32" y="306" width="21" height="20" rx="10" ry="10" fill="#393552"/><text x="42" y="320" text-anchor="middle" font-family="monospace" font-size="11" fill="#f6c177" font-weight="bold">v</text>
+<text x="242" y="320" font-family="monospace" font-size="12" fill="#e0def4">nvim</text>
+<text x="512" y="320" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">v main.py</text>
+<rect x="24" y="330" width="1052" height="28" fill="#232136"/>
+<rect x="32" y="334" width="21" height="20" rx="10" ry="10" fill="#393552"/><text x="42" y="348" text-anchor="middle" font-family="monospace" font-size="11" fill="#f6c177" font-weight="bold">g</text>
+<text x="242" y="348" font-family="monospace" font-size="12" fill="#e0def4">git</text>
+<text x="512" y="348" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">g log --oneline</text>
+<rect x="24" y="358" width="1052" height="28" fill="#2a273f"/>
+<rect x="32" y="362" width="28" height="20" rx="10" ry="10" fill="#393552"/><text x="46" y="376" text-anchor="middle" font-family="monospace" font-size="11" fill="#f6c177" font-weight="bold">gs</text>
+<text x="242" y="376" font-family="monospace" font-size="12" fill="#e0def4">git status</text>
+<text x="512" y="376" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">gs</text>
+<rect x="24" y="386" width="1052" height="28" fill="#232136"/>
+<rect x="32" y="390" width="28" height="20" rx="10" ry="10" fill="#393552"/><text x="46" y="404" text-anchor="middle" font-family="monospace" font-size="11" fill="#f6c177" font-weight="bold">ga</text>
+<text x="242" y="404" font-family="monospace" font-size="12" fill="#e0def4">git add</text>
+<text x="512" y="404" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">ga .</text>
+<rect x="24" y="414" width="1052" height="28" fill="#2a273f"/>
+<rect x="32" y="418" width="28" height="20" rx="10" ry="10" fill="#393552"/><text x="46" y="432" text-anchor="middle" font-family="monospace" font-size="11" fill="#f6c177" font-weight="bold">gc</text>
+<text x="242" y="432" font-family="monospace" font-size="12" fill="#e0def4">git commit</text>
+<text x="512" y="432" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">gc -m 'fix: typo'</text>
+<rect x="24" y="442" width="1052" height="28" fill="#232136"/>
+<rect x="32" y="446" width="28" height="20" rx="10" ry="10" fill="#393552"/><text x="46" y="460" text-anchor="middle" font-family="monospace" font-size="11" fill="#f6c177" font-weight="bold">gp</text>
+<text x="242" y="460" font-family="monospace" font-size="12" fill="#e0def4">git push</text>
+<text x="512" y="460" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">gp</text>
+<rect x="24" y="470" width="1052" height="28" fill="#2a273f"/>
+<rect x="32" y="474" width="28" height="20" rx="10" ry="10" fill="#393552"/><text x="46" y="488" text-anchor="middle" font-family="monospace" font-size="11" fill="#f6c177" font-weight="bold">gd</text>
+<text x="242" y="488" font-family="monospace" font-size="12" fill="#e0def4">git diff</text>
+<text x="512" y="488" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">gd</text>
+<rect x="24" y="498" width="1052" height="28" fill="#232136"/>
+<rect x="32" y="502" width="63" height="20" rx="10" ry="10" fill="#393552"/><text x="63" y="516" text-anchor="middle" font-family="monospace" font-size="11" fill="#f6c177" font-weight="bold">rebuild</text>
+<text x="242" y="516" font-family="monospace" font-size="12" fill="#e0def4">nixos-rebuild switch --flake</text>
+<text x="512" y="516" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">rebuild (apply flake changes)</text>
+<rect x="24" y="544" width="1052" height="36" rx="6" ry="6" fill="#393552"/>
+<rect x="24" y="544" width="5" height="36" rx="3" ry="3" fill="#9ccfd8"/>
+<text x="40" y="567" font-family="monospace" font-size="13" fill="#9ccfd8" font-weight="bold">HERDR  [prefix: Ctrl+B]</text>
+<text x="32" y="568" font-family="monospace" font-size="10" fill="#6e6a86" text-anchor="start" dx="198" text-decoration="none">SHORTCUT</text>
+<rect x="24" y="580" width="1052" height="28" fill="#2a273f"/>
+<rect x="32" y="584" width="56" height="20" rx="10" ry="10" fill="#393552"/><text x="60" y="598" text-anchor="middle" font-family="monospace" font-size="11" fill="#9ccfd8" font-weight="bold">Ctrl+B</text>
+<text x="242" y="598" font-family="monospace" font-size="12" fill="#e0def4">Enter prefix mode</text>
+<text x="512" y="598" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">Required before every Herdr command</text>
+<rect x="24" y="608" width="1052" height="28" fill="#232136"/>
+<rect x="32" y="612" width="84" height="20" rx="10" ry="10" fill="#393552"/><text x="74" y="626" text-anchor="middle" font-family="monospace" font-size="11" fill="#9ccfd8" font-weight="bold">prefix + c</text>
+<text x="242" y="626" font-family="monospace" font-size="12" fill="#e0def4">Create new tab</text>
+<text x="512" y="626" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">Open tab for a parallel task</text>
+<rect x="24" y="636" width="1052" height="28" fill="#2a273f"/>
+<rect x="32" y="640" width="84" height="20" rx="10" ry="10" fill="#393552"/><text x="74" y="654" text-anchor="middle" font-family="monospace" font-size="11" fill="#9ccfd8" font-weight="bold">prefix + &amp;</text>
+<text x="242" y="654" font-family="monospace" font-size="12" fill="#e0def4">Close current tab</text>
+<text x="512" y="654" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">Clean up when done</text>
+<rect x="24" y="664" width="1052" height="28" fill="#232136"/>
+<rect x="32" y="668" width="84" height="20" rx="10" ry="10" fill="#393552"/><text x="74" y="682" text-anchor="middle" font-family="monospace" font-size="11" fill="#9ccfd8" font-weight="bold">prefix + w</text>
+<text x="242" y="682" font-family="monospace" font-size="12" fill="#e0def4">Workspace picker</text>
+<text x="512" y="682" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">Switch between workspaces</text>
+<rect x="24" y="692" width="1052" height="28" fill="#2a273f"/>
+<rect x="32" y="696" width="84" height="20" rx="10" ry="10" fill="#393552"/><text x="74" y="710" text-anchor="middle" font-family="monospace" font-size="11" fill="#9ccfd8" font-weight="bold">prefix + g</text>
+<text x="242" y="710" font-family="monospace" font-size="12" fill="#e0def4">Go to pane</text>
+<text x="512" y="710" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">Jump directly to named pane</text>
+<rect x="24" y="720" width="1052" height="28" fill="#232136"/>
+<rect x="32" y="724" width="84" height="20" rx="10" ry="10" fill="#393552"/><text x="74" y="738" text-anchor="middle" font-family="monospace" font-size="11" fill="#9ccfd8" font-weight="bold">prefix + h</text>
+<text x="242" y="738" font-family="monospace" font-size="12" fill="#e0def4">Focus pane left</text>
+<text x="512" y="738" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">Move focus left</text>
+<rect x="24" y="748" width="1052" height="28" fill="#2a273f"/>
+<rect x="32" y="752" width="84" height="20" rx="10" ry="10" fill="#393552"/><text x="74" y="766" text-anchor="middle" font-family="monospace" font-size="11" fill="#9ccfd8" font-weight="bold">prefix + j</text>
+<text x="242" y="766" font-family="monospace" font-size="12" fill="#e0def4">Focus pane down</text>
+<text x="512" y="766" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">Move focus down</text>
+<rect x="24" y="776" width="1052" height="28" fill="#232136"/>
+<rect x="32" y="780" width="84" height="20" rx="10" ry="10" fill="#393552"/><text x="74" y="794" text-anchor="middle" font-family="monospace" font-size="11" fill="#9ccfd8" font-weight="bold">prefix + k</text>
+<text x="242" y="794" font-family="monospace" font-size="12" fill="#e0def4">Focus pane up</text>
+<text x="512" y="794" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">Move focus up</text>
+<rect x="24" y="804" width="1052" height="28" fill="#2a273f"/>
+<rect x="32" y="808" width="84" height="20" rx="10" ry="10" fill="#393552"/><text x="74" y="822" text-anchor="middle" font-family="monospace" font-size="11" fill="#9ccfd8" font-weight="bold">prefix + l</text>
+<text x="242" y="822" font-family="monospace" font-size="12" fill="#e0def4">Focus pane right</text>
+<text x="512" y="822" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">Move focus right</text>
+<rect x="24" y="832" width="1052" height="28" fill="#232136"/>
+<rect x="32" y="836" width="84" height="20" rx="10" ry="10" fill="#393552"/><text x="74" y="850" text-anchor="middle" font-family="monospace" font-size="11" fill="#9ccfd8" font-weight="bold">prefix + %</text>
+<text x="242" y="850" font-family="monospace" font-size="12" fill="#e0def4">Split vertically</text>
+<text x="512" y="850" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">New side-by-side pane</text>
+<rect x="24" y="860" width="1052" height="28" fill="#2a273f"/>
+<rect x="32" y="864" width="84" height="20" rx="10" ry="10" fill="#393552"/><text x="74" y="878" text-anchor="middle" font-family="monospace" font-size="11" fill="#9ccfd8" font-weight="bold">prefix + &quot;</text>
+<text x="242" y="878" font-family="monospace" font-size="12" fill="#e0def4">Split horizontally</text>
+<text x="512" y="878" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">New pane above/below</text>
+<rect x="24" y="888" width="1052" height="28" fill="#232136"/>
+<rect x="32" y="892" width="84" height="20" rx="10" ry="10" fill="#393552"/><text x="74" y="906" text-anchor="middle" font-family="monospace" font-size="11" fill="#9ccfd8" font-weight="bold">prefix + y</text>
+<text x="242" y="906" font-family="monospace" font-size="12" fill="#e0def4">Copy mode</text>
+<text x="512" y="906" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">Scroll up through output</text>
+<rect x="24" y="934" width="1052" height="36" rx="6" ry="6" fill="#393552"/>
+<rect x="24" y="934" width="5" height="36" rx="3" ry="3" fill="#c4a7e7"/>
+<text x="40" y="957" font-family="monospace" font-size="13" fill="#c4a7e7" font-weight="bold">NEOVIM  [leader: Space]</text>
+<text x="32" y="958" font-family="monospace" font-size="10" fill="#6e6a86" text-anchor="start" dx="198" text-decoration="none">SHORTCUT</text>
+<rect x="24" y="970" width="1052" height="28" fill="#2a273f"/>
+<rect x="32" y="974" width="35" height="20" rx="10" ry="10" fill="#393552"/><text x="49" y="988" text-anchor="middle" font-family="monospace" font-size="11" fill="#c4a7e7" font-weight="bold">Esc</text>
+<text x="242" y="988" font-family="monospace" font-size="12" fill="#e0def4">Autosave file</text>
+<text x="512" y="988" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">Press Esc after editing to save instantly</text>
+<rect x="24" y="998" width="1052" height="28" fill="#232136"/>
+<rect x="32" y="1002" width="56" height="20" rx="10" ry="10" fill="#393552"/><text x="60" y="1016" text-anchor="middle" font-family="monospace" font-size="11" fill="#c4a7e7" font-weight="bold">Ctrl+A</text>
+<text x="242" y="1016" font-family="monospace" font-size="12" fill="#e0def4">Select all text</text>
+<text x="512" y="1016" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">Ctrl+A then y to copy entire file</text>
+<rect x="24" y="1026" width="1052" height="28" fill="#2a273f"/>
+<rect x="32" y="1030" width="84" height="20" rx="10" ry="10" fill="#393552"/><text x="74" y="1044" text-anchor="middle" font-family="monospace" font-size="11" fill="#c4a7e7" font-weight="bold">p (visual)</text>
+<text x="242" y="1044" font-family="monospace" font-size="12" fill="#e0def4">Paste without clobbering</text>
+<text x="512" y="1044" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">Select text, p to replace safely</text>
+<rect x="24" y="1054" width="1052" height="28" fill="#232136"/>
+<rect x="32" y="1058" width="77" height="20" rx="10" ry="10" fill="#393552"/><text x="70" y="1072" text-anchor="middle" font-family="monospace" font-size="11" fill="#c4a7e7" font-weight="bold">Space + f</text>
+<text x="242" y="1072" font-family="monospace" font-size="12" fill="#e0def4">File picker</text>
+<text x="512" y="1072" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">Fuzzy search all project files</text>
+<rect x="24" y="1082" width="1052" height="28" fill="#2a273f"/>
+<rect x="32" y="1086" width="77" height="20" rx="10" ry="10" fill="#393552"/><text x="70" y="1100" text-anchor="middle" font-family="monospace" font-size="11" fill="#c4a7e7" font-weight="bold">Space + s</text>
+<text x="242" y="1100" font-family="monospace" font-size="12" fill="#e0def4">Grep picker</text>
+<text x="512" y="1100" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">Search a string across all files</text>
+<rect x="24" y="1110" width="1052" height="28" fill="#232136"/>
+<rect x="32" y="1114" width="77" height="20" rx="10" ry="10" fill="#393552"/><text x="70" y="1128" text-anchor="middle" font-family="monospace" font-size="11" fill="#c4a7e7" font-weight="bold">Space + b</text>
+<text x="242" y="1128" font-family="monospace" font-size="12" fill="#e0def4">Buffer picker</text>
+<text x="512" y="1128" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">Switch between open files</text>
+<rect x="24" y="1138" width="1052" height="28" fill="#2a273f"/>
+<rect x="32" y="1142" width="28" height="20" rx="10" ry="10" fill="#393552"/><text x="46" y="1156" text-anchor="middle" font-family="monospace" font-size="11" fill="#c4a7e7" font-weight="bold">gd</text>
+<text x="242" y="1156" font-family="monospace" font-size="12" fill="#e0def4">Go to definition</text>
+<text x="512" y="1156" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">Cursor on function, gd to jump</text>
+<rect x="24" y="1166" width="1052" height="28" fill="#232136"/>
+<rect x="32" y="1170" width="77" height="20" rx="10" ry="10" fill="#393552"/><text x="70" y="1184" text-anchor="middle" font-family="monospace" font-size="11" fill="#c4a7e7" font-weight="bold">Space + e</text>
+<text x="242" y="1184" font-family="monospace" font-size="12" fill="#e0def4">File explorer (Oil)</text>
+<text x="512" y="1184" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">Browse/edit directory tree</text>
+<rect x="24" y="1194" width="1052" height="28" fill="#2a273f"/>
+<rect x="32" y="1198" width="77" height="20" rx="10" ry="10" fill="#393552"/><text x="70" y="1212" text-anchor="middle" font-family="monospace" font-size="11" fill="#c4a7e7" font-weight="bold">Space + g</text>
+<text x="242" y="1212" font-family="monospace" font-size="12" fill="#e0def4">Git (Neogit)</text>
+<text x="512" y="1212" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">Stage, commit, push in Neovim</text>
+<rect x="24" y="1222" width="1052" height="28" fill="#232136"/>
+<rect x="32" y="1226" width="98" height="20" rx="10" ry="10" fill="#393552"/><text x="81" y="1240" text-anchor="middle" font-family="monospace" font-size="11" fill="#c4a7e7" font-weight="bold">Space (hold)</text>
+<text x="242" y="1240" font-family="monospace" font-size="12" fill="#e0def4">which-key popup</text>
+<text x="512" y="1240" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">Shows all available leader bindings</text>
+<rect x="24" y="1268" width="1052" height="36" rx="6" ry="6" fill="#393552"/>
+<rect x="24" y="1268" width="5" height="36" rx="3" ry="3" fill="#3e8fb0"/>
+<text x="40" y="1291" font-family="monospace" font-size="13" fill="#3e8fb0" font-weight="bold">TMUX  [prefix: Ctrl+A]</text>
+<text x="32" y="1292" font-family="monospace" font-size="10" fill="#6e6a86" text-anchor="start" dx="198" text-decoration="none">SHORTCUT</text>
+<rect x="24" y="1304" width="1052" height="28" fill="#2a273f"/>
+<rect x="32" y="1308" width="56" height="20" rx="10" ry="10" fill="#393552"/><text x="60" y="1322" text-anchor="middle" font-family="monospace" font-size="11" fill="#3e8fb0" font-weight="bold">Ctrl+A</text>
+<text x="242" y="1322" font-family="monospace" font-size="12" fill="#e0def4">Enter prefix mode</text>
+<text x="512" y="1322" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">Required before any tmux command</text>
+<rect x="24" y="1332" width="1052" height="28" fill="#232136"/>
+<rect x="32" y="1336" width="49" height="20" rx="10" ry="10" fill="#393552"/><text x="56" y="1350" text-anchor="middle" font-family="monospace" font-size="11" fill="#3e8fb0" font-weight="bold">Mouse</text>
+<text x="242" y="1350" font-family="monospace" font-size="12" fill="#e0def4">Click/drag</text>
+<text x="512" y="1350" font-family="monospace" font-size="11" fill="#6e6a86" font-style="italic">Focus pane or resize splits</text>
+</svg>

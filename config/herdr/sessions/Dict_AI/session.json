@@ -1,0 +1,53 @@
+{
+  "version": 3,
+  "workspaces": [
+    {
+      "id": "w2",
+      "custom_name": null,
+      "identity_cwd": "/home/elcasnix",
+      "public_pane_numbers": {
+        "2": 2,
+        "1": 1
+      },
+      "next_public_pane_number": 3,
+      "public_tab_numbers": [
+        1
+      ],
+      "next_public_tab_number": 2,
+      "tabs": [
+        {
+          "custom_name": "AI_Dictionary",
+          "layout": {
+            "Split": {
+              "direction": "Horizontal",
+              "ratio": 0.7280702,
+              "first": {
+                "Pane": 1
+              },
+              "second": {
+                "Pane": 2
+              }
+            }
+          },
+          "panes": {
+            "1": {
+              "cwd": "/home/elcasnix"
+            },
+            "2": {
+              "cwd": "/home/elcasnix"
+            }
+          },
+          "zoomed": false,
+          "focused": 1,
+          "root_pane": 1
+        }
+      ],
+      "active_tab": 0
+    }
+  ],
+  "active": 0,
+  "selected": 0,
+  "sidebar_width": 26,
+  "sidebar_section_split": 0.5,
+  "collapsed_space_keys": []
+}

@@ -1,0 +1,28 @@
+# Nix build outputs
+result
+result-*
+
+# Herdr runtime files (logs, sockets, session state)
+*.log
+*.sock
+config/herdr/session.json
+config/herdr/release-notes.json
+
+# Secrets and credentials
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+secrets/
+secret/
+credentials/
+
+# Editor artifacts
+*.swp
+*.swo
+.DS_Store
+
+# direnv
+.direnv/
