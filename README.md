@@ -141,3 +141,10 @@ Notes:
 ## Credits
 
 Setup and agentic environment adapted from [Kun Chen](https://github.com/kunchenguid)'s walkthrough.  
+
+---
+
+## Contact
+
+<div align="center">
+  <img src="images/thumbnails/ehcastroh_teach_banner_flower.png" alt="ehcastroh" width="90" style="border-radius: 50

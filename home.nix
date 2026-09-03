@@ -59,7 +59,7 @@
     enable = true;
     settings.user = {
 	name = "eliascasher";
-    	email = "ehcastroh@berkeley.edu";
+    	email = "YOUR_EMAIL_HERE"; # replace with your own email address
   	};
     extraConfig.url."git@github.com:".insteadOf = "https://github.com/";
   };
