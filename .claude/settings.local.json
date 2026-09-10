@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xdg-open /home/elcasnix/Projects/LLM_Wikis/Teach/llm-inference/lessons/0001-gpu-memory-hierarchy.html)",
+      "Bash(git push *)",
+      "Bash(git -C /home/elcasnix/Projects/LLM_Wikis branch -m master main)",
+      "Bash(git -C /home/elcasnix/Projects/LLM_Inference branch -m master main)",
+      "Bash(gh repo *)",
+      "Bash(git -C /home/elcasnix/Projects/LLM_Wikis remote add origin git@github.com:ehcastroh/LLM_Wikis.git)",
+      "Bash(git -C /home/elcasnix/Projects/LLM_Wikis push -u origin main)"
+    ]
+  }
+}
